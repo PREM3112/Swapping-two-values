@@ -13,17 +13,28 @@ Assign the value of second variable to a temporary variable
 Assign the value of the first variable to the second variable.
 ### Step 4:  
 Assign the value in temporary variable to the first variable
-### Step 5: 
-Print both the values it would be interchanged
+### step 5:
+print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
-
+### PROGRAM:
+```
+#Program to swap two values.
+#Developed by:PREM.R 
+#RegisterNumber:23002486
+a= float(input(""))
+b= float(input(""))
+a,b= b,a
+print("Swapped values are:",a,b)
+```
+### OUTPUT:
+![output](/OUTPUT.png)
 
 
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
+
 
 
 
