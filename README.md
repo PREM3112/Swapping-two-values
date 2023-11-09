@@ -25,7 +25,7 @@ a= float(input(""))
 b= float(input(""))
 a,b= b,a
 print("Swapped values are:",a,b)
-##OUTPUT:
+## OUTPUT:
 
 ![OUTPUT](https://github.com/PREM3112/Swapping-two-values/assets/145449383/a8817519-5f03-4daf-9caf-57e0d091574d)
 
