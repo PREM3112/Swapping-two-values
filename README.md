@@ -17,10 +17,17 @@ Assign the value in temporary variable to the first variable
 Print both the values it would be interchanged
 ### Step 6: 
 End the program
-## PROGRAM:
+##PROGRAM:
+#Program to swap two values.
+#Developed by:PREM.R 
+#RegisterNumber:23002486
+a= float(input(""))
+b= float(input(""))
+a,b= b,a
+print("Swapped values are:",a,b)
+##OUTPUT:
 
-
-
+![OUTPUT](https://github.com/PREM3112/Swapping-two-values/assets/145449383/a8817519-5f03-4daf-9caf-57e0d091574d)
 
 ## RESULT:
 Thus the swapping of two values are successfully executed
