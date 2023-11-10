@@ -18,6 +18,18 @@ print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+```
+#Program to swap two values.
+#Developed by:PREM.R 
+#RegisterNumber:23002486
+a= float(input(""))
+b= float(input(""))
+a,b= b,a
+print("Swapped values are:",a,b)
+
+```
+### OUTPUT:
+![swapping of two variables](OUTPUT-1.png)
 
 
 
