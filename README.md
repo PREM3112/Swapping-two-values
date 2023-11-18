@@ -31,18 +31,7 @@ print("Swapped values are:",a,b)
 ## OUTPUT:
 ![Alt text](<OUTPUT 4.png>)
 =======
-#Developed by:PREM.R 
-#RegisterNumber:23002486
-a= float(input(""))
-b= float(input(""))
-a,b= b,a
-print("Swapped values are:",a,b)
 
-```
-### OUTPUT:
-![swapping of two variables](OUTPUT-1.png)
-
->>>>>>> bf2f451ee7058954f0f2c3c2235142014a3439a5
 
 
 
